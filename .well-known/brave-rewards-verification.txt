@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: raymondoluoch.me
-Token: c904b93b77c38b6260a7d62fb2b00953a59575659f06e081f8e77feac348fd03
